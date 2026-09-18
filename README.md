@@ -40,16 +40,44 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/aymenelouadi/Discord-bot-dashboard-System-V4"><img src="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=Discord-bot-dashboard-System-V4&theme=tokyonight&hide_border=true" alt="Discord-bot-dashboard-System-V4" /></a></td>
-    <td><a href="https://github.com/aymenelouadi/Bot-Discord-Dashboard-ALL-IN-ONE---Next-Generation"><img src="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=Bot-Discord-Dashboard-ALL-IN-ONE---Next-Generation&theme=tokyonight&hide_border=true" alt="Bot-Discord-Dashboard-ALL-IN-ONE---Next-Generation" /></a></td>
+    <td>
+      <a href="https://github.com/aymenelouadi/Discord-bot-dashboard-System-V4">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=Discord-bot-dashboard-System-V4&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=00000000&border_color=8A2BE2" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=Discord-bot-dashboard-System-V4&title_color=8A2BE2&icon_color=8A2BE2&text_color=57606a&bg_color=00000000&border_color=8A2BE2" />
+          <img alt="Discord-bot-dashboard-System-V4" src="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=Discord-bot-dashboard-System-V4&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=00000000&border_color=8A2BE2" />
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/aymenelouadi/Bot-Discord-Dashboard-ALL-IN-ONE---Next-Generation">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=Bot-Discord-Dashboard-ALL-IN-ONE---Next-Generation&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=00000000&border_color=8A2BE2" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=Bot-Discord-Dashboard-ALL-IN-ONE---Next-Generation&title_color=8A2BE2&icon_color=8A2BE2&text_color=57606a&bg_color=00000000&border_color=8A2BE2" />
+          <img alt="Bot-Discord-Dashboard-ALL-IN-ONE---Next-Generation" src="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=Bot-Discord-Dashboard-ALL-IN-ONE---Next-Generation&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=00000000&border_color=8A2BE2" />
+        </picture>
+      </a>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/aymenelouadi/Nexura"><img src="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=Nexura&theme=tokyonight&hide_border=true" alt="Nexura" /></a></td>
-    <td><a href="https://github.com/aymenelouadi/discord-subscription-bot"><img src="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=discord-subscription-bot&theme=tokyonight&hide_border=true" alt="discord-subscription-bot" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/aymenelouadi/discord-transcripts-v2"><img src="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=discord-transcripts-v2&theme=tokyonight&hide_border=true" alt="discord-transcripts-v2" /></a></td>
-    <td><a href="https://github.com/aymenelouadi/modmail-discord"><img src="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=modmail-discord&theme=tokyonight&hide_border=true" alt="modmail-discord" /></a></td>
+    <td>
+      <a href="https://github.com/aymenelouadi/Nexura">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=Nexura&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=00000000&border_color=8A2BE2" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=Nexura&title_color=8A2BE2&icon_color=8A2BE2&text_color=57606a&bg_color=00000000&border_color=8A2BE2" />
+          <img alt="Nexura" src="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=Nexura&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=00000000&border_color=8A2BE2" />
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/aymenelouadi/discord-subscription-bot">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=discord-subscription-bot&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=00000000&border_color=8A2BE2" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=discord-subscription-bot&title_color=8A2BE2&icon_color=8A2BE2&text_color=57606a&bg_color=00000000&border_color=8A2BE2" />
+          <img alt="discord-subscription-bot" src="https://github-readme-stats.shion.dev/api/pin/?username=aymenelouadi&repo=discord-subscription-bot&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=00000000&border_color=8A2BE2" />
+        </picture>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -61,22 +89,43 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=aymenelouadi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=aymenelouadi&show_icons=true&count_private=true&theme=default&hide_border=true" />
-  <img alt="Aymen's GitHub stats" src="https://github-readme-stats.shion.dev/api?username=aymenelouadi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-</picture>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=aymenelouadi&show_icons=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=00000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=aymenelouadi&show_icons=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=57606a&bg_color=00000000&hide_border=true" />
+        <img alt="Aymen's GitHub stats" src="https://github-readme-stats.shion.dev/api?username=aymenelouadi&show_icons=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=00000000&hide_border=true" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=aymenelouadi&layout=compact&langs_count=8&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=00000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=aymenelouadi&layout=compact&langs_count=8&title_color=8A2BE2&icon_color=8A2BE2&text_color=57606a&bg_color=00000000&hide_border=true" />
+        <img alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aymenelouadi&layout=compact&langs_count=8&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=00000000&hide_border=true" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=aymenelouadi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=aymenelouadi&layout=compact&langs_count=8&theme=default&hide_border=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aymenelouadi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aymenelouadi&theme=github-dark&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakNum=8A2BE2&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=c9d1d9&dates=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=aymenelouadi&theme=default&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakNum=8A2BE2&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=57606a&dates=57606a" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=aymenelouadi&theme=github-dark&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakNum=8A2BE2&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=c9d1d9&dates=c9d1d9" />
 </picture>
 
+</div>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aymenelouadi&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=aymenelouadi&theme=default&hide_border=true" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=aymenelouadi&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aymenelouadi/aymenelouadi/output/activity-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aymenelouadi/aymenelouadi/output/activity-graph.svg" />
+  <img alt="Aymen's GitHub activity graph" src="https://raw.githubusercontent.com/aymenelouadi/aymenelouadi/output/activity-graph-dark.svg" />
 </picture>
 
 </div>
@@ -96,7 +145,5 @@
 <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aymenelouadi&color=8a2be2&style=for-the-badge)
-
-*Thanks for visiting! ⭐ a repo if something helps you.*
 
 </div>
